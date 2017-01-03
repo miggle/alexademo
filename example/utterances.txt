@@ -1,0 +1,5 @@
+HelloMiggle say hi
+HelloMiggle say hello
+DayToday what is the day {Date}
+DayToday what is the day on {Date}
+DayToday on {Date} what will the day be

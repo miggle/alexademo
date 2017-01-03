@@ -1,0 +1,7 @@
+{
+  "require": {
+    "silex/silex": "^2.0",
+    "jakubsuchy/amazon-alexa-php": "^0.1.6",
+    "monolog/monolog": "^1.22"
+  }
+}
